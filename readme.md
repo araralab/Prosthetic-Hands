@@ -12,7 +12,7 @@ Prosthetic technologies restore function and independence of millions of individ
 
 *Repository Contents:*
 
-* .STL files for the Ararauna, Macao, and Severus prosthetic hands.
+* .STL (individual parts)  & .STEP (assembly) files for the Ararauna, Macao, and Severus prosthetic hands.
 * Some (example) code for programming each hand respectively.
 * A Bill of Materials (BOM) for each hand.
 
