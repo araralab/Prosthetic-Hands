@@ -32,6 +32,6 @@ In the [following video](https://youtu.be/_75pmYlV7o4) the capabilities of the t
 
 *Contact:*
 
-For more information, please visit [our website](https://www.araralab.uk/home). Alternatively, please contact the [main author](3063568D@student.gla.ac.uk) or the [academic supervisor](Lucas.FerrariGerez@glasgow.ac.uk).
+For more information, please visit [our website](https://www.araralab.uk/home). Alternatively, please contact the [main author](mailto:3063568D@student.gla.ac.uk) or the [academic supervisor](mailto:Lucas.FerrariGerez@glasgow.ac.uk).
 
 <img src="images/ARARALogo.png" alt="ARARA" height="80"> <img src="images/UofGLogo.png" alt="UofG" height="80">
