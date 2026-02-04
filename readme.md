@@ -25,8 +25,8 @@ Prosthetic technologies restore function and independence of millions of individ
 In the [following video](https://youtu.be/XQv565ON-JM) the capabilities of the three proposed prosthetic hands (Ararauna, Macao, Severus) and two of the three different conducted experiments (Real-world Object Grasping and Grasp Durability) are shown, in that order respectively.
 
 <p align="center">
-  <a href="https://youtu.be/_75pmYlV7o4">
-    <img src="https://img.youtube.com/vi/_XQv565ON-JM/maxresdefault.jpg" alt="Video Title" width="600">
+  <a href="https://youtu.be/XQv565ON-JM">
+    <img src="https://img.youtube.com/vi/XQv565ON-JM/maxresdefault.jpg" alt="Video Title" width="600">
   </a>
 </p>
 
